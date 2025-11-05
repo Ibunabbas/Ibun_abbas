@@ -1,5 +1,18 @@
-- 👋 Hi, I’m @Ibunabbas
-- 👀 I’m interested in Web Development & Graphic Design ...
-- 🌱 I’m currently learning Python Language ...
-- 💞️ I’m looking to collaborate on Web Development & Software Development ...
-- 📫 How to reach me on WhatsApp +2349067015453...
+👋 Hi, I’m @Ibunabbas
+
+# My Creative Portfolio 👀
+
+Welcome to my personal portfolio showcasing my work as a **Web Developer** and **Graphic Designer**.
+
+## 💻 Web Development
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Sample Projects: Portfolio Website, Landing Pages, UI Components
+
+## 🎨 Graphic Design
+- Branding, Logo Design, and UI Mockups
+- Tools: Adobe Photoshop, Illustrator, CorelDraw
+
+## 📫 Contact
+Email: yusufibunabbas@gmail.com
+Whatsapp: +2349067015453...
