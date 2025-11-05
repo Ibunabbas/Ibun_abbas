@@ -6,7 +6,7 @@ Welcome to my personal portfolio showcasing my work as a **Web Developer** and *
 
 ## 💻 Web Development
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
+- Backend: MySQL, PHP, Python
 - Sample Projects: Portfolio Website, Landing Pages, UI Components
 
 ## 🎨 Graphic Design
